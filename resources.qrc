@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/TreeMapping" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
